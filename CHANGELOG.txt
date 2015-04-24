@@ -1,0 +1,6 @@
+zfs-utility 0.1, 2015-04-20
+-----------------------
+- Implemented basicaly functions
+ - zfs_snap_create.sh
+ - zfs_snap_destroy.sh
+ - zfs_snap_replicate.sh
